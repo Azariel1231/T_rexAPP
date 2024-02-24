@@ -1,1 +1,1 @@
-# T_rexAPP
+# T-Rex-Runner-Color
